@@ -1,0 +1,398 @@
+/* Core custom stylesheet for JWay Group back-office */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Inject JWay typography and colors into Payload's design tokens */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  --font-heading: 'Poppins', sans-serif !important;
+  
+  /* Primary Accent & Brand Colors */
+  --primary-color: #A8C028;
+  --primary-color-hover: #8F9E22;
+  
+  --theme-bg: #f8fafc !important; /* Tailwind slate-50 */
+  --theme-text: #1e293b !important; /* Tailwind slate-800 */
+}
+
+/* Dark mode overrides */
+html[data-theme='dark'] {
+  --theme-bg: #0f172a !important; /* Tailwind slate-900 */
+  --theme-text: #f1f5f9 !important; /* Tailwind slate-100 */
+}
+
+/* Base Body Font Override */
+body, html {
+  font-family: var(--font-sans);
+}
+
+/* Headings styles using Poppins */
+h1, h2, h3, h4, h5, h6, .title, [class*="title"] {
+  font-family: var(--font-heading) !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+}
+
+/* Sidebar Custom Styling (Clean, high-contrast light theme) */
+nav.nav,
+aside[class*="sidebar"],
+div[class*="nav-sidebar"],
+nav[class*="nav"]:not([class*="step-nav"]) {
+  background-color: #ffffff !important;
+  border-right: 1px solid #e2e8f0 !important;
+}
+
+/* Ensure header breadcrumbs (step-nav) have a transparent background and no border */
+nav.step-nav,
+.step-nav,
+[class*="step-nav"] {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Navigation Group Titles / Headers (e.g. Collections, Contact Form) */
+[class*="nav-group__label"],
+[class*="navGroup__label"],
+[class*="nav-group__toggle"],
+[class*="navGroup__toggle"],
+[class*="nav-group__header"],
+[class*="navGroup__header"],
+button[class*="nav-group"] {
+  color: #475569 !important;
+  font-weight: 700 !important;
+  font-size: 0.825rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
+  padding: 0.35rem 0.5rem !important;
+}
+
+/* Give dashboard group labels and collection links breathing room from borders. */
+.nav__label,
+.nav-group__toggle,
+[class*="nav-group__label"],
+[class*="navGroup__label"] {
+  padding: 0.35rem 0.5rem !important;
+}
+
+nav.nav a[href*="/collections/"],
+nav.nav a[href*="/globals/"],
+.nav__wrap a[href*="/collections/"],
+.nav__wrap a[href*="/globals/"] {
+  padding: 0.75rem 1rem !important;
+}
+
+/* Match "Create New" header button height to the collection heading beside it */
+.list-header__title-and-actions,
+[class*="list-header"] {
+  align-items: center !important;
+}
+
+.list-header a[href*="/create"],
+.list-header .pill,
+[class*="list-header"] .pill,
+a.doc-header__action {
+  padding: 0.2rem 0.75rem !important;
+  height: 28px !important;
+  min-height: 28px !important;
+  line-height: 1 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 6px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Navigation Links (e.g. Users, Media, Posts, Testimonials, Submissions, Form Settings) */
+nav a,
+[class*="nav"] a,
+[class*="nav-group"] a,
+[class*="navGroup"] a {
+  color: #334155 !important;
+  font-weight: 500 !important;
+  transition: all 0.15s ease-in-out !important;
+}
+
+nav a:hover,
+[class*="nav"] a:hover {
+  color: #A8C028 !important;
+  background-color: rgba(168, 192, 40, 0.08) !important;
+}
+
+/* Sub-navigation Indentation for Sidebar Groups (e.g. Contact Form -> Submissions / Form Settings) */
+[class*="nav-group"] a,
+[class*="navGroup"] a,
+[class*="nav__group"] a,
+[class*="nav-group"] [class*="nav__link"],
+[class*="navGroup"] [class*="nav__link"] {
+  padding-left: 0.85rem !important;
+}
+
+/* Active navigation item highlight (JWay green) */
+.sidebar [class*="active"], .sidebar a[class*="active"], .sidebar a[aria-current="page"] {
+  color: #ffffff !important;
+  background-color: #A8C028 !important; /* JWay Green */
+  font-weight: 600 !important;
+  border-radius: 6px !important;
+}
+
+/* Form Fields & Containers (High contrast, crystal clear text) */
+.field-type,
+[class*="field-type"],
+[class*="render-fields"],
+[class*="form"] {
+  background-color: transparent !important;
+  color: #1e293b !important;
+}
+
+/* Form Labels (Email Recipient, Email CC, Email Subject, From Email, etc.) */
+label,
+.field-label,
+[class*="field-label"],
+[class*="label"] {
+  color: #0f172a !important;
+  font-weight: 600 !important;
+  font-size: 0.875rem !important;
+}
+
+/* Form Field Descriptions & Subtext */
+.field-description,
+[class*="field-description"],
+[class*="description"] {
+  color: #64748b !important;
+  font-size: 0.8125rem !important;
+  margin-top: 0.25rem !important;
+}
+
+/* Form Text Inputs & Textareas */
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus,
+select:focus {
+  border-color: #A8C028 !important;
+  box-shadow: 0 0 0 2px rgba(168, 192, 40, 0.2) !important;
+}
+
+/* Primary Action Buttons (JWay Green) */
+.btn--style-primary, 
+button[type="submit"], 
+[class*="btn--style-primary"],
+[class*="button--primary"] {
+  background-color: #A8C028 !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 8px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.01em !important;
+  box-shadow: 0 4px 6px -1px rgba(168, 192, 40, 0.2), 0 2px 4px -1px rgba(168, 192, 40, 0.1) !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.btn--style-primary:hover:not(:disabled), 
+button[type="submit"]:hover:not(:disabled), 
+[class*="btn--style-primary"]:hover:not(:disabled) {
+  background-color: #8F9E22 !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 10px 15px -3px rgba(168, 192, 40, 0.3), 0 4px 6px -2px rgba(168, 192, 40, 0.2) !important;
+}
+
+.btn--style-primary:disabled,
+button[type="submit"]:disabled,
+[class*="btn--style-primary"]:disabled,
+[class*="btn--disabled"] {
+  opacity: 0.55 !important;
+  cursor: not-allowed !important;
+  box-shadow: none !important;
+}
+
+/* Secondary Button Overrides */
+.btn--style-secondary {
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.btn--style-secondary:hover {
+  background-color: #f1f5f9 !important;
+  border-color: #94a3b8 !important;
+}
+
+/* Premium Card & Grid styling */
+.card {
+  border-radius: 12px !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 2px 0 rgba(0, 0, 0, 0.06) !important;
+  transition: all 0.2s ease !important;
+}
+
+html[data-theme='dark'] .card {
+  border-color: #1e293b !important;
+  background-color: #1e293b !important;
+}
+
+.card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Admin Dashboard Tables (clean, professional, modern tailwind style) */
+table, .table {
+  border-collapse: separate !important;
+  border-spacing: 0 4px !important;
+}
+
+th {
+  font-family: var(--font-heading) !important;
+  color: #64748b !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.05em !important;
+  padding: 12px 16px !important;
+}
+
+td {
+  padding: 14px 16px !important;
+  background-color: #ffffff !important;
+  border-top: 1px solid #f1f5f9 !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  transition: background-color 0.2s ease !important;
+}
+
+html[data-theme='dark'] td {
+  background-color: #1e293b !important;
+  border-color: #334155 !important;
+}
+
+tr:hover td {
+  background-color: #f8fafc !important;
+}
+
+html[data-theme='dark'] tr:hover td {
+  background-color: #0f172a !important;
+}
+
+/* Custom logo and graphics styling */
+.graphics-logo img {
+  max-width: 180px !important;
+  max-height: 50px !important;
+  object-fit: contain !important;
+}
+
+.graphics-icon img {
+  max-width: 120px !important;
+  max-height: 28px !important;
+  object-fit: contain !important;
+}
+
+/* Ensure the login brand container doesn't squash its content */
+.login__brand {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Password Masking for SMTP Password Field */
+input[name="smtpPass"],
+input[id="field-smtpPass"],
+[data-field-path="smtpPass"] input {
+  -webkit-text-security: disc !important;
+  font-family: text-security-disc, monospace !important;
+}
+
+/* Keep Payload's React-Select internals from inheriting full field styling. */
+.rs__input-container,
+.rs__input {
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Select & Dropdown Field High-Contrast & Text Visibility Fix */
+.rs__control,
+.rs__value-container,
+.rs__single-value,
+.select__control,
+.select__single-value {
+  color: #0f172a !important;
+  fill: #0f172a !important;
+  font-weight: 500 !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.rs__value-container > div,
+.rs__single-value {
+  color: #0f172a !important;
+  font-size: 0.9rem !important;
+}
+
+.rs__option,
+[class*="rs__option"] {
+  color: #1e293b !important;
+  background-color: #ffffff !important;
+}
+
+.rs__option--is-focused,
+[class*="rs__option--is-focused"] {
+  background-color: #f1f5f9 !important;
+  color: #0f172a !important;
+}
+
+.rs__option--is-selected,
+[class*="rs__option--is-selected"] {
+  background-color: #A8C028 !important;
+  color: #ffffff !important;
+}
+
+/* Security Field Masking Strictly for Google Cloud Client Secret, reCAPTCHA Secret Key & SMTP Password */
+input#field-oauth2ClientSecret,
+input[name="oauth2ClientSecret"],
+input#field-recaptchaSecretKey,
+input[name="recaptchaSecretKey"],
+input#field-smtpPass,
+input[name="smtpPass"] {
+  -webkit-text-security: disc !important;
+  text-security: disc !important;
+}
+
+/* Keep dnd-kit keyboard instructions available to assistive technology without
+   rendering the live region as visible page content. */
+[id^="DndLiveRegion"] {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.nav__wrap .nav-group__content a {
+    padding: 0.5rem 0.85rem !important;
+}
+
+.login__form__inputWrap {
+    border: 0px !important;
+}
+
+section.login.template-minimal .template-minimal__wrap {
+    padding: 32px;
+    max-width: 620px;
+    background-color: #fff;
+}

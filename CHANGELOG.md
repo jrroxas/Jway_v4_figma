@@ -1,0 +1,7603 @@
+### [2026-07-20] - Substantial Changes Detected
+
+## [2026-11-06] - Substantial Changes Detected
+
+### 📁 Schema / Database Collection
+- **File**: `src/collections/Forms.ts`
+  - Modified schema for collection: `Forms`
+
+## [2026-11-05] - Substantial Changes Detected
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-11-03] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+## [2026-09-01] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-09-01] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-09-01] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-09-01] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-09-01] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-25] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-08-17] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-30] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-30] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-30] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `public/Circles-set-v2.svg`
+  - Substantial modification.
+- **File**: `public/Circles.svg`
+  - Substantial modification.
+- **File**: `public/TestimonialSlider_bkg.png`
+  - Substantial modification.
+- **File**: `public/about/About-Globe.png`
+  - Substantial modification.
+- **File**: `public/about/About-banner.png`
+  - Substantial modification.
+- **File**: `public/about/BenGomez.png`
+  - Substantial modification.
+- **File**: `public/about/Ella-Calotes.png`
+  - Substantial modification.
+- **File**: `public/about/Ian-Ray-Lopez.png`
+  - Substantial modification.
+- **File**: `public/about/Jo-Ann-Climacosa.png`
+  - Substantial modification.
+- **File**: `public/about/Joe-Choi.png`
+  - Substantial modification.
+- **File**: `public/about/Mara-Quivedo.jpg`
+  - Substantial modification.
+- **File**: `public/about/Rex-Mupas.jpg`
+  - Substantial modification.
+- **File**: `public/about/expansion.png`
+  - Substantial modification.
+- **File**: `public/about/global_brands.png`
+  - Substantial modification.
+- **File**: `public/about/kc.jpg`
+  - Substantial modification.
+- **File**: `public/about/silicon_valley.png`
+  - Substantial modification.
+- **File**: `public/blog/1-2.png`
+  - Substantial modification.
+- **File**: `public/blog/1-3.png`
+  - Substantial modification.
+- **File**: `public/blog/1-4.png`
+  - Substantial modification.
+- **File**: `public/blog/1-May-18-2026-08-33-29-4653-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/2-1.png`
+  - Substantial modification.
+- **File**: `public/blog/2-2.png`
+  - Substantial modification.
+- **File**: `public/blog/2-3.png`
+  - Substantial modification.
+- **File**: `public/blog/2-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-1.png`
+  - Substantial modification.
+- **File**: `public/blog/3-2.png`
+  - Substantial modification.
+- **File**: `public/blog/3-3.png`
+  - Substantial modification.
+- **File**: `public/blog/3-4.png`
+  - Substantial modification.
+- **File**: `public/blog/3-May-18-2026-08-41-31-7593-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/4-1.png`
+  - Substantial modification.
+- **File**: `public/blog/4-2.png`
+  - Substantial modification.
+- **File**: `public/blog/5.png`
+  - Substantial modification.
+- **File**: `public/blog/6.png`
+  - Substantial modification.
+- **File**: `public/blog/Banner-1.png`
+  - Substantial modification.
+- **File**: `public/blog/Celebrate_Together__3_.png`
+  - Substantial modification.
+- **File**: `public/blog/Gemini_Generated_Image_qw6peeqw6peeqw6p.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_1.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_2.png`
+  - Substantial modification.
+- **File**: `public/blog/Graphics_3.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122120.png`
+  - Substantial modification.
+- **File**: `public/blog/Screenshot_2025-12-04_122657.png`
+  - Substantial modification.
+- **File**: `public/blog/Timing_Is_the_Decision_Most_Leaders_Miss_Clarity_early_in_the_year_creates_leverage._You_can_pause_roles_that_no_longer_make_sense._You_can_walk_away_from_candidates_who_are_capable_but_wrong_for_the_work._You_can.jpg`
+  - Substantial modification.
+- **File**: `public/blog/Untitled__Banner_Landscape_.png`
+  - Substantial modification.
+- **File**: `public/blog/b6e6051f531e32d1f060e423d38c0173.jpg`
+  - Substantial modification.
+- **File**: `public/blog/ba369a176b8563c642da6d91015e14e3.jpg`
+  - Substantial modification.
+- **File**: `public/blog/c661f4e6bd86f8af5309890e20c631c5.jpg`
+  - Substantial modification.
+- **File**: `public/blog/cover.png`
+  - Substantial modification.
+- **File**: `public/blog/ee6b9a6bfb317bb7bbc719f2b15b5359.jpg`
+  - Substantial modification.
+- **File**: `public/blog/fee20e3574a0d164c77a1166db0a0714.jpg`
+  - Substantial modification.
+- **File**: `public/blog/header.png`
+  - Substantial modification.
+- **File**: `public/blog/hire_build.png`
+  - Substantial modification.
+- **File**: `public/blog/mandate.png`
+  - Substantial modification.
+- **File**: `public/blog/the_strategic.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Feb-20-2026-08-24-45-7277-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Jun-23-2026-06-08-33-0040-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed-Mar-25-2026-04-20-54-5480-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_-Jun-23-2026-06-11-52-4942-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__1_.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-2.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-3.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-4.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_-Feb-04-2026-06-07-33-1454-AM.png`
+  - Substantial modification.
+- **File**: `public/blog/unnamed__2_.png`
+  - Substantial modification.
+- **File**: `public/header.png`
+  - Substantial modification.
+- **File**: `public/hero-slide1-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide1-joe.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide2-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide2-team.jpg`
+  - Substantial modification.
+- **File**: `public/hero-slide3-bg.webp`
+  - Substantial modification.
+- **File**: `public/hero-slide3-phone.jpg`
+  - Substantial modification.
+- **File**: `public/homepage/custom-solutions.jpg`
+  - Substantial modification.
+- **File**: `public/jway-promo.mp4`
+  - Substantial modification.
+- **File**: `public/salesforce-integration.jpg`
+  - Substantial modification.
+- **File**: `public/testimonials/Banner-Testimonials.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Delphine-Vincent.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Mitchell-Ingstad.png`
+  - Substantial modification.
+- **File**: `public/testimonials/Morgan-Logo.png`
+  - Substantial modification.
+- **File**: `public/testimonials/danny.png`
+  - Substantial modification.
+- **File**: `public/testimonials/john.png`
+  - Substantial modification.
+- **File**: `public/testimonials/joseph.png`
+  - Substantial modification.
+- **File**: `public/testimonials/kendyl.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omg.png`
+  - Substantial modification.
+- **File**: `public/testimonials/omnicell.png`
+  - Substantial modification.
+- **File**: `public/testimonials/pavel.png`
+  - Substantial modification.
+- **File**: `public/testimonials/vincent.png`
+  - Substantial modification.
+- **File**: `public/world-map.svg`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-29] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-29] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-29] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-29] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-29] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-29] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-28] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 General
+- **File**: `src/app/(payload)/admin/[[...segments]]/page.tsx`
+  - Substantial modification.
+- **File**: `src/app/(payload)/admin/importMap.js`
+  - Substantial modification.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-27] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-27] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-27] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-24] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-24] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+## [2026-07-24] - Substantial Changes Detected
+
+### 📁 AWS Amplify Config / Build Pipeline
+- **File**: `amplify.yml`
+  - Updated AWS Amplify build settings or environment variable deployment mappings.
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+ JWay Migration Project Changelog
+
+## [2026-07-16] - Substantial Changes Detected
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-06-25] - Substantial Changes Detected
+
+### 📁 Database Seeding
+- **File**: `src/seed.ts`
+  - Modified seed script or seeded database content (e.g., blog posts, initial users).
+
+## [2026-06-04] - Substantial Changes Detected
+
+### 📁 Dependencies
+- **File**: `package.json`
+  - Updated package.json dependencies or build scripts.
+
+### 📁 CMS Engine Configuration
+- **File**: `src/payload.config.ts`
+  - Modified core Payload CMS engine configurations (plugins, collections, storage adapters).
+
+All substantial changes to schemas, configs, and migrations are documented here.

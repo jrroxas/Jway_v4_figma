@@ -1,0 +1,28 @@
+
+> jway-migration-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Environments: .env
+✓ Ready in 18.0s
+  Downloading swc package @next/swc-linux-x64-gnu... to /sessions/rcw-01cxwspa8g6wf3dycssmbuof/.cache/next-swc
+/bin/sh: 1: yarn: not found
+Unhandled Rejection: Error: Failed to get registry from "yarn".
+    at ignore-listed frames {
+  [cause]: Error: Command failed: yarn config get registry 
+  /bin/sh: 1: yarn: not found
+  
+      at ignore-listed frames {
+    status: 127,
+    signal: null,
+    output: [
+      null,
+      <Buffer >,
+      <Buffer 2f 62 69 6e 2f 73 68 3a 20 31 3a 20 79 61 72 6e 3a 20 6e 6f 74 20 66 6f 75 6e 64 0a>
+    ],
+    pid: 49,
+    stdout: <Buffer >,
+    stderr: <Buffer 2f 62 69 6e 2f 73 68 3a 20 31 3a 20 79 61 72 6e 3a 20 6e 6f 74 20 66 6f 75 6e 64 0a>
+  }
+}
